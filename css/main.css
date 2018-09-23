@@ -1,0 +1,90 @@
+body{
+	font-family: 'Poppins', sans-serif;
+	line-height: 1.5;
+	color: #FFA000;
+
+	background-color: #0d0a02;
+
+
+}
+header{
+	padding: 1rem 5%;
+	background-color: #212121;
+
+	logo h1 
+	font-family: 'Raleway' , serif;
+	font-size: 1rem;
+	font-weight: 400;
+	color: #d7ccc8;
+}
+
+.logo h1 {
+	font-family: 'Raleway' , serif;
+	font-size: 1rem;
+	font-weight: 400;
+	color: #d7ccc8;
+
+
+.menu a 
+}
+
+/*main content*/
+main {
+	padding: 1.5rem 5%;
+}
+
+main h1 {
+	font-family: 'Raleway', sans-serif;
+    font-size: 2rem;
+	color: #4CAF50;
+}
+
+main h2 {
+	font-family: 'Poppins', sans-serif;
+	font size: 1.5rem;
+	color: #4CAF50;
+
+}
+
+main h3 {
+	font-family: 'Poppins', sans-serif;
+	font size: 1rem;
+	color: #4CAF50;
+
+}
+
+main h4 {
+	font-family: 'Poppins', sans-serif;
+	font size: .5rem;
+	color: #4CAF50;
+
+}
+
+
+main li {
+
+}
+
+
+.col-left img{
+	width: 100%;
+}
+
+.ingredients li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+footer {
+	padding: 1.5rem 5%;
+	background-color: #212121;
+}
+
+footer p {
+	margin: 0;
+}
+footer a{
+	text-decoration: none;
+	color: #fff;
+}
